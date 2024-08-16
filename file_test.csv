@@ -1,0 +1,6 @@
+REF;ADRESSE DE DEPART 1;ADRESSE DE DEPART 2;CODE POSTAL DE DEPART;VILLE DE DEPART;NUMERO INSEE DE DEPART;NUMERO INSEE D'ARRIVE;ADRESSE D'ARRIVE 1;ADRESSE D'ARRIVE 2;CODE POSTAL D'ARRIVE;VILLE ARRIVEE;DISTANCE EN METRE
+1;1 quai de corse;;75004;PARIS;75104;75108;61 RUE DE COURCELLES               ;AG SIEGE SOCIAL                    ;75008;PARIS                              ;
+2;1 quai de corse;;75004;PARIS;75104;77288;19 rue Carnot                      ;AG CARNOT                          ;77000;MELUN                              ;
+3;1 quai de corse;;75004;PARIS;75104;75108;31 rue Tronchet                    ;Siege social                       ;75008;PARIS                              ;
+4;1 quai de corse;;75004;PARIS;75104;75111;101 rue du Chemin Vert33 rue Sai                           ;Siege social                       ;75011;PARIS                              ;
+5;1 quai de corse;;75004;PARIS;75104;75009;PARIS et pour les besosignificat                           ;MARRY 122 rue de Javel 75 015      ;75009;PARIS                         ;
